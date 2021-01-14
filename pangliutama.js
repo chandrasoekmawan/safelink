@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2017/12/money-for-work.html"}
 if(x=="2"){xxx="/2017/12/the-struggle-to-make-money.html"}
 if(x=="3"){xxx="/2017/12/lorem-ipsum-heartache-sit-amet.html"}
 if(x=="4"){xxx="/2017/12/vero-eos-eaccusam-sea-takimata.html"}
-if(x=="5"){xxx="/2017/12/the-one-millions-chicken-meat-business.html"}a_to_ve[i].href="https://menujulink13.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2021/01/handphon-android-dengan-ram-1gb.html"}a_to_ve[i].href="https://menujulink13.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
