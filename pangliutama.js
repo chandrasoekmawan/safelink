@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2017/12/money-for-work.html"}
-if(x=="2"){xxx="/2017/12/the-struggle-to-make-money.html"}
-if(x=="3"){xxx="/2017/12/lorem-ipsum-heartache-sit-amet.html"}
-if(x=="4"){xxx="/2017/12/vero-eos-eaccusam-sea-takimata.html"}
-if(x=="5"){xxx="2017/12/the-one-millions-chicken-meat-business.html"}a_to_ve[i].href="https://menujulink13.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2017/12/Bitcoin-and-money.html"}
+if(x=="2"){xxx="/2017/12/the-struggle-make-moneys.html"}
+if(x=="3"){xxx="/2017/12/Top-best-insurance-usa.html"}
+if(x=="4"){xxx="/2017/12/the-millions-chicken-meat.html"}
+if(x=="5"){xxx="2017/12/Money-For-better-life.html"}a_to_ve[i].href="https://menujulink13.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
